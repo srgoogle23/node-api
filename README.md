@@ -8,4 +8,6 @@ npm i --save express@4.17.1
 npm i --save body-parser@1.19.0
 npm i --save config@3.2.3
 npm i consign@0.1.6 --save
+npm i var_dump --save-dev
+npm i mysql --save
 ```
